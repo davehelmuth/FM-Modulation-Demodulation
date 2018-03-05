@@ -2,6 +2,9 @@
 """
 Spyder Editor Python 2.7
 
+A video that provides a full exlanation accompanies this code.
+https://youtu.be/x3aTj61uovI
+
 Do the following:
 1) Encode the signal ym by varying the frequency (fc) of the sinusoid Yc using
     FM modulation
