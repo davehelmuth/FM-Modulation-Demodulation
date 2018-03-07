@@ -20,7 +20,7 @@ sampling_period = 0.0001
 ts = pyl.arange(0, 1, sampling_period)
 
 # This is the modulating signal (Think slider position See video)
-ym = 0.5 * pyl.sin(2.0 * pyl.pi * 1.0 * ts)
+ym = pyl.sin(2.0 * pyl.pi * 1.0 * ts)
 
 # High frequency carrier with slider pos encoded into it's frequency
 
