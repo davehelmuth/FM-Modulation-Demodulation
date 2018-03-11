@@ -2,7 +2,7 @@
 """
 Spyder Editor Python 2.7
 
-A video that provides a full exlanation accompanies this code.
+A video that provides a full explanation to this code.
 https://youtu.be/x3aTj61uovI
 
 Do the following:
